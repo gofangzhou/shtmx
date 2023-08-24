@@ -1,0 +1,25 @@
+{
+  "name": "shtmx",
+  "version": "0.0.4",
+  "description": "shtmx是一个专注于处理html与html之前关系的库。",
+  "main": "./dist/index.js",
+  "typings": "types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gofangzhou/shtmx.git"
+  },
+  "keywords": [
+    "shtmx"
+  ],
+  "author": "g.qb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gofangzhou/shtmx/issues"
+  },
+  "homepage": "https://github.com/gofangzhou/shtmx#readme",
+  "devDependencies": {
+  }
+}
